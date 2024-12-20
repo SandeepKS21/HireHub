@@ -27,7 +27,7 @@ function Job() {
 
       <div className='flex flex-col-reverse gap-6 md:flex-row justify-between items-center'>
         <h1 className='gradient-title text-4xl font-extrabold pb-3 sm:text-6xl'>Frontend Developer</h1>
-        <img className='h-12' src='../../public/companies/google.webp' />
+        <img className='h-12' src='/public/companies/google.webp' />
       </div>
 
       <div className='mt-4 flex flex-col sm:flex-row gap-4 sm:gap-8'>

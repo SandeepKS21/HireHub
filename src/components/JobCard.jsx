@@ -27,7 +27,7 @@ function JobCard() {
             </CardHeader>
             <CardContent className="flex flex-col gap-4">
                 <div className='flex justify-between items-center'>
-                    <img src='../../public/companies/google.webp' className='h-6' />
+                    <img src='/public/companies/google.webp' className='h-6' />
 
                     <div className='flex gap-4 items-center'>
                         <MapPinIcon size={18} />
