@@ -35,7 +35,7 @@ function Signin() {
 
                         <div className='flex gap-1 items-end justify-center p-1 border-2 rounded-lg mt-5 cursor-pointer'>
                             <p className='font-bold'>Continue with</p>
-                            <img className='h-4' src='/public/companies/google.webp' />
+                            <img className='h-4' src='/companies/google.webp' />
                         </div>
 
 

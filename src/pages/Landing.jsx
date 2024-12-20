@@ -36,7 +36,7 @@ function Landing() {
         <h1 className='flex flex-col items-center justify-center gradient-title text-4xl font-extrabold sm:text-6xl lg:text-8xl tracking-tighter py-4'>Find Your Dream Job
           <span className='flex items-center gap-2 sm:gap-2 lg:gap-6'>and get hired
 
-            <img className='h-10 sm:h-15 lg:h-20' alt='hire hub logo' src='/public/logo.png' />
+            <img className='h-10 sm:h-15 lg:h-20' alt='hire hub logo' src='/logo.png' />
           </span>
 
         </h1>
